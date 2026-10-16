@@ -83,9 +83,9 @@ The projects demonstrate an important principle of global management: effective 
 
 Global managers must understand stakeholder interests, cultural expectations, communication patterns, trust mechanisms, and negotiation dynamics before determining how to lead, communicate, and make decisions across borders.
 
-## Author
+### Project Team
 
-**Anagha Bande**  
-Master of Global Management  
-Thunderbird School of Global Management  
-Arizona State University
+• Anagha Bande  
+• Blessings Zivengwa  
+• Alexander Wang  
+• Parker Huff  
